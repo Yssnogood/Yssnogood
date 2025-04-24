@@ -1,6 +1,8 @@
 # Hello and welcome to Yssnogood's page ! 
 
-I'm currently studying web development and also working and personnals projects 
+- Currently studying web development and working on personnals projects
+- Love video games and creating fun projects
+- Always happy to check new stuff 
 
 ## About me :
 
@@ -18,7 +20,7 @@ I'm currently studying web development and also working and personnals projects
 
 ## Recents Projects :
 
-| Projet | Description | 🔗 Lien |
+| Projet | Description | 🔗 Link |
 |--------|-------------|--------|
 | `GraphQL` | A web app for Z01 students to check their infos | [Link to project](https://github.com/Yssnogood/GraphQL) |
 | `Real Time Forum` | A web project to learn web sock | [Link to project](https://github.com/Naofumi76/real-time-forum) |
