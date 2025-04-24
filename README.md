@@ -27,7 +27,7 @@
 | `Forum` | A forum made with and to practice with golang | [Link to project](https://github.com/Shasor/forum) |
 |`Make your game`| A bricks breaker game made with javascript | [Link to project](https://github.com/Yssnogood/make-your-game) |
 
-## 📈 Github's stats
+## Github's stats
 
 ![GitHub's stats](https://github-readme-stats.vercel.app/api?username=Yssnogood&show_icons=true&theme=radical)
 ![GitHub's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yssnogood&layout=compact&theme=radical)
