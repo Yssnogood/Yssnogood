@@ -30,7 +30,7 @@
 ## 📈 Github's stats
 
 ![GitHub's stats](https://github-readme-stats.vercel.app/api?username=Yssnogood&show_icons=true&theme=radical)
-![GitHub's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nYssnogood&layout=compact&theme=radical)
+![GitHub's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yssnogood&layout=compact&theme=radical)
 
 
 
