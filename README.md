@@ -25,7 +25,7 @@
 | `GraphQL` | A web app for Z01 students to check their infos | [Link to project](https://github.com/Yssnogood/GraphQL) |
 | `Real Time Forum` | A web project to learn web sock | [Link to project](https://github.com/Naofumi76/real-time-forum) |
 | `Forum` | A forum made with and to practice with golang | [Link to project](https://github.com/Shasor/forum) |
-|`Make your game`| A bricks breaker game made with javascript | [Link to project](https://github.com/Yssnogood/make-your-game) |
+|`Make your game`| A bricks breaker game made with javascript | [Link to project](https://github.com/Naofumi76/make-your-game) |
 
 ## Github's stats
 
